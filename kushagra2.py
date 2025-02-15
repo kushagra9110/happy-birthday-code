@@ -24,7 +24,7 @@ def birthday_wish():
     *   May all your dreams come true, and may  *
     *   this year be filled with endless joy!   *
     * I don't know about the future but i'm damn sure that one day i'll surely visit pakistan and i'll meet you.*
-    * I don't know wether we we will be toegther or not as partners but i want to be with you forever as a friend bhhi chlega bs aap saath rehna mere.*
+    * I don't know wether we we will be toegther or not as partners but i want to be with you forever as a friend bhi chlega bs aap saath rehna mere.*
     * I'll always protect you from everything i promise and you will never ever feel alone till i'm alive.*
       I'm sorry for my mistakes but i'm bringing a change in myself too just for my anya ji*
     *********************************************
